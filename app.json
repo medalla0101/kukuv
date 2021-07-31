@@ -1,0 +1,22 @@
+{
+    "name": "kukuv",
+    "description": "Run kukuv on Heroku.",
+    "keywords": ["kukuv"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "6c966955-b28c-40a6-ae9a-704ab70ee1d5"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://kukuv.com/kukuv/",
+    "repository": "https://github.com/medalla0101/kukuv",
+    "stack": "container"
+}
